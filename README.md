@@ -91,6 +91,43 @@ It combines **AI summarization, knowledge organization, and memory tools** to he
 
 Use IVCT to **create timestamped video bookmarks, generate instant summaries, and build your personal video knowledge base** — all powered by **OpenAI**.
 
+### Structured Metadata (Schema.org JSON-LD)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Instant Video Context Tagger (IVCT)",
+  "applicationCategory": "ProductivityApplication",
+  "operatingSystem": "ChromeOS, Windows, macOS, Linux",
+  "url": "https://tagit.video",
+  "downloadUrl": "https://chromewebstore.google.com/detail/ivct-instant-video-contex/bdicikdkiobadnneahpfpgmbgchppnfn",
+  "description": "AI-powered Chrome extension for tagging, summarizing, and organizing YouTube video moments.",
+  "offers": {
+    "@type": "Offer",
+    "price": "4.99",
+    "priceCurrency": "EUR",
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "billingDuration": "P1M",
+      "name": "Pro Plan"
+    }
+  },
+  "creator": {
+    "@type": "Person",
+    "name": "Adam Petritsis",
+    "url": "https://linkedin.com/in/adampetritsis"
+  },
+  "sameAs": [
+    "https://tagit.video",
+    "https://app.tagit.video",
+    "https://x.com/adamvisu",
+    "https://chromewebstore.google.com/detail/ivct-instant-video-contex/bdicikdkiobadnneahpfpgmbgchppnfn",
+    "https://github.com/adampao/tagit-video"
+  ]
+}
+```
+
 ---
 
 ## 📄 License
