@@ -3,6 +3,8 @@
 **Website:** [https://tagit.video](https://tagit.video)
 **Chrome Web Store:** [Install IVCT Extension](https://chromewebstore.google.com/detail/ivct-instant-video-contex/bdicikdkiobadnneahpfpgmbgchppnfn)
 
+🚀 **Start tagging your YouTube insights today with IVCT — free on Chrome Web Store.**
+
 ## 🧠 What is IVCT?
 
 IVCT (Instant Video Context Tagger) is an **AI-powered Chrome extension** that lets you tag, summarize, and organize moments from any YouTube video.
@@ -31,7 +33,7 @@ Whether you're a researcher, student, filmmaker, or knowledge worker, IVCT helps
 - **Content Creators** - Organizing reference material and inspiration
 - **Lifelong Learners** - Retaining knowledge from podcasts, vidcasts and educational channels
 
-## 💰 Pricing
+## 💰 Plans & Pricing
 
 ### Free Plan 
 - 25 AI-powered tags per month
@@ -77,9 +79,19 @@ Developed by [Adam VisuAl+](https://linkedin.com/in/adampetritsis), IVCT is desi
 
 ## 🤝 Community
 
-- **Twitter/X:** [@tagitvideo](https://x.com/adamvisu)
+- **Twitter/X:** Follow creator [@adamvisu](https://x.com/adamvisu)
 - **Email:** adam@tagit.video
 - **GitHub Issues:** For bug reports and feature requests
+
+---
+
+## 🕓 Version History
+
+- **v0.8.13** – Enhanced share experience with embedded YouTube player
+- **v0.8.11** – Inline tag panel on YouTube with quick editing and social sharing
+- **v0.8.8** – YouTube player embedded in shared tags
+- **v0.8.4** – Chrome Web Store public release
+- **v0.7.6** – First beta release with guest mode
 
 ---
 
