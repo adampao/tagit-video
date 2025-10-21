@@ -81,6 +81,18 @@ Developed by [Adam VisuAl+](https://linkedin.com/in/adampetritsis), IVCT is desi
 - **Email:** adam@tagit.video
 - **GitHub Issues:** For bug reports and feature requests
 
+---
+
+## 🧩 Semantic Summary
+
+**IVCT (Instant Video Context Tagger)** is a **Chrome extension** that lets users **bookmark, tag, and summarize moments in YouTube videos**.
+
+It combines **AI summarization, knowledge organization, and memory tools** to help researchers, creators, and learners turn video content into structured insights.
+
+Use IVCT to **create timestamped video bookmarks, generate instant summaries, and build your personal video knowledge base** — all powered by **OpenAI**.
+
+---
+
 ## 📄 License
 
 Copyright © 2025 Adam VisuAl+. All rights reserved.
