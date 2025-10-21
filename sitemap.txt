@@ -1,0 +1,29 @@
+# IVCT (Instant Video Context Tagger) - Site Map
+
+## Main Website
+https://tagit.video
+https://app.tagit.video
+
+## Product Pages
+https://tagit.video/welcome
+https://tagit.video/pricing
+https://tagit.video/how-to
+https://tagit.video/use-cases
+https://tagit.video/faq
+https://tagit.video/about
+
+## Legal
+https://tagit.video/privacy
+https://tagit.video/terms
+
+## Chrome Web Store
+https://chromewebstore.google.com/detail/ivct-instant-video-contex/bdicikdkiobadnneahpfpgmbgchppnfn
+
+## Social Media
+https://x.com/adamvisu
+
+## Developer Resources
+https://github.com/adampao/tagit-video
+
+## Contact
+support@tagit.video
