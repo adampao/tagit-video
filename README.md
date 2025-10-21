@@ -21,7 +21,7 @@ Whether you're a researcher, student, filmmaker, or knowledge worker, IVCT helps
 1. **Watch YouTube** - Browse videos as you normally would
 2. **Tag moments** - Press Alt+T (Windows/Linux) or Opt+T (Mac) when you are watching something important
 3. **AI generates summaries** - Instant transcript extraction and AI-powered summaries and flashcards
-4. **Build your knowledge base** - Review and search tags. Study with flashcards
+4. **Build your knowledge base** - Review and search tags on the app. Study with flashcards
 
 ## 🎯 Perfect For
 
