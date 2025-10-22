@@ -1,4 +1,5 @@
 # Instant Video Context Tagger (IVCT)
+_Tags: YouTube bookmarking • AI note taking • Video tagging • Knowledge management_
 
 **Website:** [https://tagit.video](https://tagit.video)
 **Chrome Web Store:** [Install IVCT Extension](https://chromewebstore.google.com/detail/ivct-instant-video-contex/bdicikdkiobadnneahpfpgmbgchppnfn)
