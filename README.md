@@ -1,16 +1,18 @@
-# Instant Video Context Tagger (IVCT)
+# TAGiT - Smart Video Bookmarking
 _Tags: YouTube bookmarking • AI note taking • Video tagging • Knowledge management_
 
 **Website:** [https://tagit.video](https://tagit.video)
-**Chrome Web Store:** [Install IVCT Extension](https://chromewebstore.google.com/detail/ivct-instant-video-contex/bdicikdkiobadnneahpfpgmbgchppnfn)
+**Chrome Web Store:** [Install TAGiT Extension](https://chromewebstore.google.com/detail/ivct-instant-video-contex/bdicikdkiobadnneahpfpgmbgchppnfn)
 
-🚀 **Start tagging your YouTube insights today with IVCT — free on Chrome Web Store.**
+🚀 **Start tagging your YouTube insights today with TAGiT — free on Chrome Web Store.**
 
-## 🧠 What is IVCT?
+**Click when it clicks.**
 
-IVCT (Instant Video Context Tagger) is an **AI-powered Chrome extension** that lets you tag, summarize, and organize moments from any YouTube video.
+## 🧠 What is TAGiT?
 
-Whether you're a researcher, student, filmmaker, or knowledge worker, IVCT helps you build structured knowledge from the content you watch online.
+TAGiT is an **AI-powered Chrome extension** that lets you tag, summarize, and organize moments from any YouTube video.
+
+Whether you're a researcher, student, filmmaker, or knowledge worker, TAGiT helps you build structured knowledge from the content you watch online.
 
 ## ✨ Features
 - **One-click tagging** of YouTube video timestamps
@@ -56,7 +58,7 @@ Whether you're a researcher, student, filmmaker, or knowledge worker, IVCT helps
 
 ## 🔐 Privacy & Security
 
-IVCT takes your privacy seriously:
+TAGiT takes your privacy seriously:
 - Your tags and notes are private by default
 - All data encrypted at rest and in transit
 - No selling of user data
@@ -74,9 +76,9 @@ Built with modern, reliable technology:
 
 ## 📣 About
 
-IVCT was created to bridge the gap between passive video consumption and active knowledge building. By combining AI assistance with human curation, IVCT helps you transform hours of video content into a searchable, structured personal knowledge base.
+TAGiT was created to bridge the gap between passive video consumption and active knowledge building. By combining AI assistance with human curation, TAGiT helps you transform hours of video content into a searchable, structured personal knowledge base.
 
-Developed by [Adam VisuAl+](https://linkedin.com/in/adampetritsis), IVCT is designed for anyone who learns from video content and wants to retain more of what they watch.
+Developed by [Adam VisuAl+](https://linkedin.com/in/adampetritsis), TAGiT is designed for anyone who learns from video content and wants to retain more of what they watch.
 
 ## 🤝 Community
 
@@ -98,11 +100,11 @@ Developed by [Adam VisuAl+](https://linkedin.com/in/adampetritsis), IVCT is desi
 
 ## 🧩 Semantic Summary
 
-**IVCT (Instant Video Context Tagger)** is a **Chrome extension** that lets users **bookmark, tag, and summarize moments in YouTube videos**.
+**TAGiT** is a **Chrome extension** that lets users **bookmark, tag, and summarize moments in YouTube videos**.
 
 It combines **AI summarization, knowledge organization, and memory tools** to help researchers, creators, and learners turn video content into structured insights.
 
-Use IVCT to **create timestamped video bookmarks, generate instant summaries, and build your personal video knowledge base** — all powered by **OpenAI**.
+Use TAGiT to **create timestamped video bookmarks, generate instant summaries, and build your personal video knowledge base** — all powered by **OpenAI**.
 
 ### Structured Metadata (Schema.org JSON-LD)
 
@@ -110,7 +112,7 @@ Use IVCT to **create timestamped video bookmarks, generate instant summaries, an
 {
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
-  "name": "Instant Video Context Tagger (IVCT)",
+  "name": "TAGiT - Smart Video Bookmarking",
   "applicationCategory": "ProductivityApplication",
   "operatingSystem": "ChromeOS, Windows, macOS, Linux",
   "url": "https://tagit.video",

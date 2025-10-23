@@ -1,10 +1,10 @@
-# IVCT Documentation
+# TAGiT Documentation
 
-Welcome to the official documentation for **IVCT (Instant Video Context Tagger)**.
+Welcome to the official documentation for **TAGiT - Smart Video Bookmarking**.
 
 ## 📚 Table of Contents
 
-- [What is IVCT?](#what-is-ivct)
+- [What is TAGiT?](#what-is-ivct)
 - [How It Works](#how-it-works)
 - [Key Features](#key-features)
 - [Getting Started](#getting-started)
@@ -14,15 +14,17 @@ Welcome to the official documentation for **IVCT (Instant Video Context Tagger)*
 
 ---
 
-## What is IVCT?
+## What is TAGiT?
 
-IVCT (Instant Video Context Tagger) is a **Chrome extension and web app** that lets users tag, annotate, and organize moments in YouTube videos, turning them into structured knowledge with AI summaries and flashcards.
+**Click when it clicks.**
+
+TAGiT is a **Chrome extension and web app** that lets users tag, annotate, and organize moments in YouTube videos, turning them into structured knowledge with AI summaries and flashcards.
 
 ### The Problem
 Video content is everywhere, but learning from videos is passive and forgettable. Important insights are lost in hours of content.
 
 ### The Solution
-IVCT transforms video watching into active knowledge building by letting you:
+TAGiT transforms video watching into active knowledge building by letting you:
 - Tag moments as you watch
 - Get AI-generated summaries instantly
 - Build a searchable personal knowledge base
@@ -33,7 +35,7 @@ IVCT transforms video watching into active knowledge building by letting you:
 ## How It Works
 
 ### 1. Install the Extension
-Add IVCT to Chrome from the [Chrome Web Store](https://chromewebstore.google.com/detail/ivct-instant-video-contex/bdicikdkiobadnneahpfpgmbgchppnfn).
+Add TAGiT to Chrome from the [Chrome Web Store](https://chromewebstore.google.com/detail/ivct-instant-video-contex/bdicikdkiobadnneahpfpgmbgchppnfn).
 
 ### 2. Watch YouTube
 Browse and watch videos as you normally would.
@@ -46,7 +48,7 @@ When you hear something important, press:
 Or click the extension icon.
 
 ### 4. AI Processes the Tag
-IVCT automatically:
+TAGiT automatically:
 - Extracts the transcript (±15 seconds around the moment)
 - Generates an AI summary of key concepts
 - Creates flashcards for active recall
@@ -94,7 +96,7 @@ Create shareable links to important moments with embedded YouTube player.
 ### Installation
 1. Visit the [Chrome Web Store](https://chromewebstore.google.com/detail/ivct-instant-video-contex/bdicikdkiobadnneahpfpgmbgchppnfn)
 2. Click "Add to Chrome"
-3. The IVCT icon will appear in your browser toolbar
+3. The TAGiT icon will appear in your browser toolbar
 
 ### First Tag
 1. Go to any YouTube video
@@ -186,7 +188,7 @@ Read our full [Privacy Policy](https://tagit.video/privacy).
 - 25 AI-powered tags per month
 - Full feature access
 - Local storage included
-- Perfect for trying IVCT
+- Perfect for trying TAGiT
 
 ### Pro Plan - $4.99/month
 - **Unlimited AI tags and summaries**
@@ -200,7 +202,7 @@ Read our full [Privacy Policy](https://tagit.video/privacy).
 
 ## Technology Stack
 
-IVCT is built with modern, reliable technology:
+TAGiT is built with modern, reliable technology:
 
 **Frontend**
 - React 18 + TypeScript
@@ -242,7 +244,7 @@ IVCT is built with modern, reliable technology:
 
 ## Contributing
 
-While IVCT is a commercial product, we welcome feedback and feature suggestions:
+While TAGiT is a commercial product, we welcome feedback and feature suggestions:
 
 1. Check existing [GitHub Issues](https://github.com/adampao/tagit-video/issues)
 2. Create a new issue with your suggestion or bug report
@@ -269,7 +271,7 @@ While IVCT is a commercial product, we welcome feedback and feature suggestions:
 
 ## License
 
-Copyright © 2025 IVCT. All rights reserved.
+Copyright © 2025 TAGiT. All rights reserved.
 
 ---
 
