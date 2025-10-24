@@ -2,8 +2,7 @@
 _Tags: YouTube bookmarking • AI note taking • Video tagging • Knowledge management_
 
 **Website:** [https://tagit.video](https://tagit.video)
-**Chrome Web Store:** [Install TAGiT Extension](https://chromewebstore.google.com/detail/ivct-instant-video-contex/bdicikdkiobadnneahpfpgmbgchppnfn)
-
+**Chrome Web Store:** [Install TAGiT Extension](https://chromewebstore.google.com/detail/tagit-video-bookmarking-a/bdicikdkiobadnneahpfpgmbgchppnfn)
 🚀 **Start tagging your YouTube insights today with TAGiT — free on Chrome Web Store.**
 
 **Click when it clicks.**
