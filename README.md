@@ -117,7 +117,7 @@ Use TAGiT to **create timestamped video bookmarks, generate instant summaries, a
   "applicationCategory": "ProductivityApplication",
   "operatingSystem": "ChromeOS, Windows, macOS, Linux",
   "url": "https://tagit.video",
-  "downloadUrl": "https://chromewebstore.google.com/detail/ivct-instant-video-contex/bdicikdkiobadnneahpfpgmbgchppnfn",
+  "downloadUrl": "https://chromewebstore.google.com/detail/tagit-ai-video-bookmarks/bdicikdkiobadnneahpfpgmbgchppnfn",
   "description": "AI-powered Chrome extension for tagging, summarizing, and organizing YouTube video moments.",
   "offers": {
     "@type": "Offer",
@@ -138,7 +138,7 @@ Use TAGiT to **create timestamped video bookmarks, generate instant summaries, a
     "https://tagit.video",
     "https://app.tagit.video",
     "https://x.com/adamvisu",
-    "https://chromewebstore.google.com/detail/ivct-instant-video-contex/bdicikdkiobadnneahpfpgmbgchppnfn",
+    "https://chromewebstore.google.com/detail/tagit-ai-video-bookmarks/bdicikdkiobadnneahpfpgmbgchppnfn",
     "https://github.com/adampao/tagit-video"
   ]
 }

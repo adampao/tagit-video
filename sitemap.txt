@@ -1,4 +1,4 @@
-# IVCT (Instant Video Context Tagger) - Site Map
+# TAGiT - Site Map
 
 ## Main Website
 https://tagit.video
@@ -16,8 +16,15 @@ https://tagit.video/about
 https://tagit.video/privacy
 https://tagit.video/terms
 
+## LLM Discovery
+https://tagit.video/llms.txt
+https://tagit.video/about.md
+https://tagit.video/how-to.md
+https://tagit.video/faq.md
+https://tagit.video/index.html.md
+
 ## Chrome Web Store
-https://chromewebstore.google.com/detail/ivct-instant-video-contex/bdicikdkiobadnneahpfpgmbgchppnfn
+https://chromewebstore.google.com/detail/tagit-ai-video-bookmarks/bdicikdkiobadnneahpfpgmbgchppnfn
 
 ## Social Media
 https://x.com/adamvisu

@@ -35,7 +35,7 @@ TAGiT transforms video watching into active knowledge building by letting you:
 ## How It Works
 
 ### 1. Install the Extension
-Add TAGiT to Chrome from the [Chrome Web Store](https://chromewebstore.google.com/detail/ivct-instant-video-contex/bdicikdkiobadnneahpfpgmbgchppnfn).
+Add TAGiT to Chrome from the [Chrome Web Store](https://chromewebstore.google.com/detail/tagit-ai-video-bookmarks/bdicikdkiobadnneahpfpgmbgchppnfn).
 
 ### 2. Watch YouTube
 Browse and watch videos as you normally would.
@@ -94,7 +94,7 @@ Create shareable links to important moments with embedded YouTube player.
 ## Getting Started
 
 ### Installation
-1. Visit the [Chrome Web Store](https://chromewebstore.google.com/detail/ivct-instant-video-contex/bdicikdkiobadnneahpfpgmbgchppnfn)
+1. Visit the [Chrome Web Store](https://chromewebstore.google.com/detail/tagit-ai-video-bookmarks/bdicikdkiobadnneahpfpgmbgchppnfn)
 2. Click "Add to Chrome"
 3. The TAGiT icon will appear in your browser toolbar
 
