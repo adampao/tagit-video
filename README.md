@@ -55,6 +55,13 @@ Whether you're a researcher, student, filmmaker, or knowledge worker, TAGiT help
 - **How-To Guide:** [https://tagit.video/how-to](https://tagit.video/how-to)
 - **Pricing:** [https://app.tagit.video/pricing](https://app.tagit.video/pricing)
 
+## 🤖 For AI Assistants
+
+TAGiT provides an llms.txt file for improved discoverability by AI assistants:
+- **llms.txt:** [https://tagit.video/llms.txt](https://tagit.video/llms.txt)
+
+This allows AI tools like Claude, ChatGPT, and others to access accurate, up-to-date information about TAGiT when users ask questions.
+
 ## 🔐 Privacy & Security
 
 TAGiT takes your privacy seriously:
@@ -89,6 +96,7 @@ Developed by [Adam VisuAl+](https://linkedin.com/in/adampetritsis), TAGiT is des
 
 ## 🕓 Version History
 
+- **v0.8.27** – Current release with mobile URL tagging improvements and YouTube deep linking
 - **v0.8.13** – Enhanced share experience with embedded YouTube player
 - **v0.8.11** – Inline tag panel on YouTube with quick editing and social sharing
 - **v0.8.8** – YouTube player embedded in shared tags
