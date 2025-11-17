@@ -54,13 +54,7 @@ Whether you're a researcher, student, filmmaker, or knowledge worker, TAGiT help
 - **FAQ:** [https://tagit.video/faq](https://tagit.video/faq)
 - **How-To Guide:** [https://tagit.video/how-to](https://tagit.video/how-to)
 - **Pricing:** [https://app.tagit.video/pricing](https://app.tagit.video/pricing)
-
-## 🤖 For AI Assistants
-
-TAGiT provides an llms.txt file for improved discoverability by AI assistants:
 - **llms.txt:** [https://tagit.video/llms.txt](https://tagit.video/llms.txt)
-
-This allows AI tools like Claude, ChatGPT, and others to access accurate, up-to-date information about TAGiT when users ask questions.
 
 ## 🔐 Privacy & Security
 
