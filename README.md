@@ -26,7 +26,7 @@ TAGiT solves this with science-backed memory techniques, automated by AI.
 ### Daily Digest
 Receive personalized AI-powered insights from all videos you've watched - automatically. Every day, TAGiT analyzes your viewing history, generates concise summaries with actionable takeaways, and delivers them to your inbox. Zero effort required.
 
-**Free:** 3 digests/day | **Pro:** Unlimited
+**Free:** 3 digests | **Pro:** Unlimited
 
 ### One-Click Tagging
 Capture key moments while watching with a single click (keyboard shortcut: Alt+T / Opt+T). TAGiT automatically extracts timestamped transcripts and generates AI summaries. No flow interruption, no manual note-taking.
