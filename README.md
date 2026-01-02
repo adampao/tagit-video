@@ -140,6 +140,7 @@ TAGiT takes your privacy seriously:
 - **App:** [https://app.tagit.video](https://app.tagit.video)
 - **FAQ:** [https://tagit.video/faq](https://tagit.video/faq)
 - **How-To Guide:** [https://tagit.video/how-to](https://tagit.video/how-to)
+- **Use Cases:** [https://tagit.video/use-cases](https://tagit.video/use-cases)
 - **Pricing:** [https://app.tagit.video/pricing](https://app.tagit.video/pricing)
 - **Blog:** [https://tagit.video/blog](https://tagit.video/blog)
 - **Changelog:** [https://tagit.video/changelog](https://tagit.video/changelog)
