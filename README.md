@@ -91,11 +91,11 @@ Export your knowledge base in PDF or Markdown format. Your data is yours - take 
 
 ## Who Uses TAGiT?
 
+- **Lifelong Learners** - Turn YouTube into your second brain
 - **Students** - Retain lecture content, prepare for exams, build study guides
 - **Professionals** - Remember conference talks, tutorial insights, skill development
 - **Researchers** - Organize video references, extract key quotes, cite sources
 - **Content Creators** - Research competitors, organize inspiration, build reference libraries
-- **Lifelong Learners** - Turn YouTube into your second brain
 
 ---
 
