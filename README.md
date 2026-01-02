@@ -160,7 +160,7 @@ The result: a tool grounded in memory science, powered by AI, and designed for a
 ## Community
 
 - **Twitter/X:** Follow creator [@adamvisu](https://x.com/adamvisu)
-- **Email:** adam.visual.plus@gmail.com
+- **Email:** adam@tagit.video
 - **Feedback:** [https://tagit.video/feedback](https://tagit.video/feedback)
 - **GitHub Issues:** For bug reports and feature requests
 
