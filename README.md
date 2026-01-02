@@ -70,9 +70,9 @@ Export your knowledge base in PDF or Markdown format. Your data is yours - take 
 ## Pricing
 
 ### Free Plan
-- 25 monthly AI tags
-- 25 flashcard generations
-- 3 daily digests per day
+- 25 AI tags per month
+- 25 flashcard generations per month
+- 3 daily digests (lifetime limit)
 - 1 custom study collection
 - Export to PDF/Markdown
 - Cross-device sync
